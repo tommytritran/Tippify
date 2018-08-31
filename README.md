@@ -1,4 +1,4 @@
-# Pre-work - Tippify
+# Pre-work - *Tippify*
 
 Tippify is a tip calculator application for iOS.
 
@@ -10,14 +10,14 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ x] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [x ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/2zPxIq3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/2zPxIq3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -38,7 +38,7 @@ Settings page is created but no functionallity is added yet.
 
 ## License
 
-Copyright [2018] [Tommy Tran]
+Copyright [ 2018 ] [ Tommy Tran ]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
