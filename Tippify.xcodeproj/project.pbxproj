@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A21EDB42139A64E0048901D /* ViewControllerTipAmount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A21EDB32139A64E0048901D /* ViewControllerTipAmount.swift */; };
 		0AFAEFED213603F2006EB4D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AFAEFEC213603F2006EB4D8 /* AppDelegate.swift */; };
 		0AFAEFEF213603F2006EB4D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AFAEFEE213603F2006EB4D8 /* ViewController.swift */; };
 		0AFAEFF2213603F2006EB4D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AFAEFF0213603F2006EB4D8 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A21EDB32139A64E0048901D /* ViewControllerTipAmount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTipAmount.swift; sourceTree = "<group>"; };
 		0AFAEFE9213603F2006EB4D8 /* Tippify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tippify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AFAEFEC213603F2006EB4D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AFAEFEE213603F2006EB4D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				0AFAEFF3213603F2006EB4D8 /* Assets.xcassets */,
 				0AFAEFF5213603F2006EB4D8 /* LaunchScreen.storyboard */,
 				0AFAEFF8213603F2006EB4D8 /* Info.plist */,
+				0A21EDB32139A64E0048901D /* ViewControllerTipAmount.swift */,
 			);
 			path = Tippify;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A21EDB42139A64E0048901D /* ViewControllerTipAmount.swift in Sources */,
 				0AFAEFEF213603F2006EB4D8 /* ViewController.swift in Sources */,
 				0AFAEFED213603F2006EB4D8 /* AppDelegate.swift in Sources */,
 			);
@@ -431,6 +435,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N7T32W5G6L;
 				INFOPLIST_FILE = Tippify/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -448,6 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N7T32W5G6L;
 				INFOPLIST_FILE = Tippify/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
